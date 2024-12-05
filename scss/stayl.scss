@@ -1,0 +1,29 @@
+ @import "header";
+ @import "cards";
+ @import "resed";
+
+
+header{
+    nav{
+        .logo{
+            color: blue;
+
+        }
+
+
+        ul{
+            li{
+               color: burlywood; 
+               &:hover{
+                color: firebrick;
+                
+                 
+
+
+                
+                  
+               }
+            }
+        }
+    }
+}
